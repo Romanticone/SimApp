@@ -1,2 +1,2 @@
-# PEV-SimApp
-Simulation App for Shared Autonomous Vehicle (SAV) Deployment 
+# EV-SimApp
+Simulation App for Electric Taxi Charging Recommendation
